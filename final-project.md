@@ -54,7 +54,7 @@ I chicken big like.
 ## **wan: santieko**
 (where: San Diego)
 ## **ñeśli: soneki pesani**
-(purpose language create)
+(purpose language create) help
 
 
 # **pe śloen (more learn):**
