@@ -9,37 +9,36 @@ SOV - our language
 ![wiki](wiki.svg.png)
 
 sañi sonekin pesani.
-(langauge sañi created.)
+(sañi language created.) help
 Sani is a language created.
 
-tla pleno SOV plen.
-(it order SOV follow)
+tla SOV pleno plen.
+(it SOV order follow) help
 It follows SOV Order.
 
-tla snos tani heklo klot snan.
-(it words 1000 about contains)
+tla snos klot tani heklo snan.
+(it words about 1000 contains) help
 it contains about 1000 words.
 
 
 sañi sonekin flis
-(sañi language beautiful)
+(sañi language beautiful) help
 sañi is a beautiful language.
 
 pa inklis, español, en sañi manji śingi.
-(I english spanish and sañi now know)
+(I english spanish and sañi now know) help
 I now know English, Spanish, and sañi.
 
-# flowot ñalot sañi pan kina.
+# ñalot flowot sañi pan kina. (image people sañi that talk) image of people that talk sañi.
 
-(people image sañi that talk)
-image of people that talk sañi.
+
 ![people talking](talk.png)
-> flano ketot tlenpa jal.
-> (family food enjoy gather)
+> flano ketot jal tlenpa.
+> (family food gather enjoy)
 family gather to enjoy food.
 Flel Fletasnon fot flowa.
 (they chicken big like)
-the like turkey.
+they like turkey.
 Sna fletasnonia fot jolat?
 you do chicken big eat.
 Do you eat turkey?
@@ -48,17 +47,17 @@ I chicken big like.
 (I like turkey)
 
 
-## plel: 2022
+## **plel: 2022**
 (date)
-## Pesani: Grant Goodall en klan.
+## **Pesani: Grant Goodall en klan.**
 (created) Grant Goodall and student
-## wan: santieko
+## **wan: santieko**
 (where: San Diego)
-## ñeśli: soneki pesani
+## **ñeśli: soneki pesani**
 (purpose language create)
 
 
-# pe śloen (more learn):
+# **pe śloen (more learn):**
 
 
 - [https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0](https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0) 
