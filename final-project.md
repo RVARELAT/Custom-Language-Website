@@ -10,7 +10,7 @@ SOV - our language
 
 sañi sonekin pesani.
 (sañi language created.) help
-Sani is a language created.
+Sani is a created language.
 
 tla SOV pleno plen.
 (it SOV order follow) help
