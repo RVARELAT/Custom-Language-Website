@@ -80,7 +80,7 @@ I chicken big like.
 
 > **Ricardo Varela Tellez pesani**
 
-(Ricardo Varela Tellez created)
+(Ricardo Varela Tellez create)
 
 
 
