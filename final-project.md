@@ -58,7 +58,7 @@ Flano snima monan.
 Flano fleoton: "Kisaja!"
 (family said (Love to you!))
 ```
-> English Translation: The family gather to enjoy food. The man is a grandfather. The woman is a grandmother. The family saw the turkey. They like turkey. The family shared the turkey. Tt was good. The family is happy. The family said: "Love to you!"
+> English Translation: The family gather to enjoy food. The man is a grandfather. The woman is a grandmother. The family saw the turkey. They like turkey. The family shared the turkey. It was good. The family is happy. The family said: "Love to you!"
 
 # **pe śloen (more learn):**
 - [https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0](https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0) 
