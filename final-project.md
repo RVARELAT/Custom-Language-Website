@@ -26,7 +26,7 @@ Pa inklisja, españolja, en sañija manji śingi.
 ```
 > English Translation: Sañi is a created language. It follows SOV Order. It contains about 1000 words. Sañi is a beautiful language. Sañi was created in San Diego. I now know English, Spanish, and sañi. 
 
-# **ñalot: flowot sañi kina. (image: people sañi talk)**
+# **ñalot: flowot sañija kinaan. (image: people sañi talk)**
 > image: people talk sañi.
 ![people talking](talk.png)
 
