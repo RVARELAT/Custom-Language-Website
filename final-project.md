@@ -63,8 +63,9 @@ Flano fleoton: "Kisaja!"
 # **pe śloenit (more learn):**
 - [https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0](https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0) 
 - [https://canvas.ucsd.edu/courses/40112/files/8401243?module_item_id=1579322](https://canvas.ucsd.edu/courses/40112/files/8401243?module_item_id=1579322) 
--  [https://canvas.ucsd.edu/courses/40112/files/8397447?module_item_id=1580592](https://canvas.ucsd.edu/courses/40112/files/8397447?module_item_id=1580592)
-- [https://canvas.ucsd.edu/courses/40112/files/8397495?module_item_id=1580597](https://canvas.ucsd.edu/courses/40112/files/8397495?module_item_id=1580597)
+-  [https://canvas.ucsd.edu/courses/40112/files/8438997?module_item_id=1586418](https://canvas.ucsd.edu/courses/40112/files/8438997?module_item_id=1586418)
+- [https://canvas.ucsd.edu/courses/40112/files/8438934?module_item_id=1586410](https://canvas.ucsd.edu/courses/40112/files/8438934?module_item_id=1586410)
+- [https://canvas.ucsd.edu/courses/40112/files/8439064?module_item_id=1586443](https://canvas.ucsd.edu/courses/40112/files/8439064?module_item_id=1586443)
 
 > **kalifoña ka snośli santieko ka jomen**
 (California of university San Diego of property)
