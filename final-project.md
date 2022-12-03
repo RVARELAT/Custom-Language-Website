@@ -3,7 +3,7 @@
 #  **klośa He'ela!!!**
 (world hello)
 
-![wiki](wiki.svg.png)
+![wiki](wiki2.png)
 
 ```
 Sañi sonekin pesani monan
