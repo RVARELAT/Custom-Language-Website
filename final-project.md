@@ -75,6 +75,6 @@ Flano fleoton: "Kisaja!"
 ![ucsd](ucsd.png)
 
 
-
-- **Glossary:** (not part of website)
-pesani(created): from pesani(create)
+(not part of website)
+- **Glossary-**
+pesani(created) from pesani(create)
