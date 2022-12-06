@@ -7,7 +7,7 @@
 
 ```
 Sañi sonekin pesani monan
-(sañi language create be) 
+(sañi language created be) 
 
 Tla plenoja SOV plenan.
 (it order SOV follows) 
