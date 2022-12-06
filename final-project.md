@@ -1,7 +1,7 @@
-# **sañi**
+# **Sañi**
 
 #  **He'ela klośa!!!**
-(Hello World!!!)
+(Hello world!!!)
 
 ![wiki](wiki2.png)
 
@@ -77,4 +77,4 @@ Flano fleoton: "Kisaja!"
 
 
 - **Glossary:** (not part of website)
-pesani (created): from pesani(create)
+pesani(created): from pesani(create)
