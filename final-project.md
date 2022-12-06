@@ -26,8 +26,8 @@ Pa inklisja, españolja, en sañija manji śingi.
 ```
 > English Translation: Sañi is a created language. It follows SOV Order. It contains about 1000 words. Sañi is a beautiful language. Sañi was created in San Diego. I now know English, Spanish, and sañi. 
 
-# **ñalot: flowot sañija kinaan. (image: people sañi talk)**
-> image: people talk sañi.
+# **ñalot: Flowot sañija kinaan. (image: people sañi talk)**
+> image: People talk sañi.
 ![people talking](talk.png)
 
 ```
@@ -60,14 +60,14 @@ Flano fleoton: "Kisaja!"
 ```
 > English Translation: The family gather to enjoy food. The man is a grandfather. The woman is a grandmother. The family saw the turkey. They like turkey. The family shared the turkey. It was good. The family is happy. The family said: "Love to you!"
 
-# **pe śloenit (more learn):**
+# **Pe śloenit (more learn):**
 - [https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0](https://docs.google.com/spreadsheets/d/17JDGkP2TwkBPJFh6fUggEH7St0lyZgd386_Vo5hzYV0/edit#gid=0) 
 - [https://canvas.ucsd.edu/courses/40112/files/8401243?module_item_id=1579322](https://canvas.ucsd.edu/courses/40112/files/8401243?module_item_id=1579322) 
 -  [https://canvas.ucsd.edu/courses/40112/files/8438997?module_item_id=1586418](https://canvas.ucsd.edu/courses/40112/files/8438997?module_item_id=1586418)
 - [https://canvas.ucsd.edu/courses/40112/files/8438934?module_item_id=1586410](https://canvas.ucsd.edu/courses/40112/files/8438934?module_item_id=1586410)
 - [https://canvas.ucsd.edu/courses/40112/files/8439064?module_item_id=1586443](https://canvas.ucsd.edu/courses/40112/files/8439064?module_item_id=1586443)
 
-> **kalifoña ka snośli santieko ka jomen**
+> **Kalifoña ka snośli santieko ka jomen**
 (California of university San Diego of property)
 
 > **Ricardo Varela Tellez pesanion** (Ricardo Varela Tellez created)
