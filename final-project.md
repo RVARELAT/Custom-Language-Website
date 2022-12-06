@@ -1,7 +1,7 @@
 # **sañi**
 
-#  **klośa He'ela!!!**
-(world hello)
+#  **He'ela klośa!!!**
+(Hello World!!!)
 
 ![wiki](wiki2.png)
 
